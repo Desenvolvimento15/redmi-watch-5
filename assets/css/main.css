@@ -1,34 +1,3 @@
-.slick-next {
-  background-image: url(https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-smart-band-9-pro/pc/slick-next.png) !important;
-  background-position: 50% !important;
-  background-repeat: no-repeat !important;
-  background-size: 100% 100% !important;
-  height: 0.44141rem !important;
-  right: 83% !important;
-  top: 52% !important;
-  width: 0.44141rem !important;
-}
-
-
-slick-next{
-  font-size: 0; 
-  line-height: 0;
-  position: absolute;
-  top: 50%;
-  display: block;
-  width: 20px;
-  height: 20px;
-  padding: 0;
-  -webkit-transform: translate(0, -50%);
-  -ms-transform: translate(0, -50%);
-  transform: translate(0, -50%);
-  cursor: pointer;
-  color: transparent;
-  border: none;
-  outline: 0;
-  background: 0 0;
-}
-
 .div1.fly-birds-page_048c88bb7c {
   align-items: flex-start;
   box-sizing: border-box;

@@ -4,7 +4,7 @@
       slidesToScroll: 1, // Avança 1 slide por vez
       autoplay: true, 
       autoplaySpeed: 500, 
-      dots: true, 
+      dots: false, 
       arrows: false,
       infinite: true, // Garante o loop infinito
       cssEase: 'linear',
@@ -17,8 +17,10 @@
     $('.slider-2').slick({
       slidesToShow: 3,  // Mostra 3 slides por vez (ajuste se necessário)
       slidesToScroll: 1, // Avança 1 slide por vez
-      dots: true, 
-      arrows: true,
+      autoplaySpeed: 2000,
+      autoplay: true, 
+      dots: false, 
+      arrows: false,
       infinite: true, // Garante o loop infinito
       cssEase: 'linear',
       leftMode: true, // Define se os slides ficam centralizados
